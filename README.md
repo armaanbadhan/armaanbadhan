@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/e28fc6c4-63c7-4dc4-ac9f-c74ddbedfb8f.svg)](https://wakatime.com/@e28fc6c4-63c7-4dc4-ac9f-c74ddbedfb8f)
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaanbadhan&theme=dark" alt="armaanbadhan" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
