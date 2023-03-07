@@ -40,8 +40,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaanbadhan&theme=dark" alt="armaanbadhan" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaanbadhan&layout=compact&theme=tokyonight&hide=css&langs_count=8" />
 </div>
-
 <p align="center"><a href="http://www.github.com/armaanbadhan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=armaanbadhan&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
